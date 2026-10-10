@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+._*
+
+# Spark / Delta
+metastore_db/
+derby.log
+spark-warehouse/
+
+# Test
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Output
+output/
