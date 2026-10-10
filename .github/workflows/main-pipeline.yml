@@ -1,4 +1,4 @@
-name: Andromeda Pipeline - Main
+name: techincal-home-assessment - Main
 
 on:
   workflow_dispatch:
